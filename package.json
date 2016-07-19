@@ -1,0 +1,22 @@
+{
+  "name": "hyper-log-actions",
+  "version": "1.0.0",
+  "description": "Log all actions from hyperterm in the dev console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbkrk/hyper-log-actions.git"
+  },
+  "keywords": [
+    "hyperterm"
+  ],
+  "author": "Kyle Kelley",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rgbkrk/hyper-log-actions/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/hyper-log-actions#readme"
+}
